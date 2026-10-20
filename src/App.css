@@ -136,7 +136,7 @@
   height: 50px;
   font-family: "Nunito", "Open Sans", sans-serif;
   font-size: 1.2rem;
-  margin: auto;
+  margin: 0 auto 50px;
   border-radius: 50px;
   border-color: transparent;
   cursor: pointer;
